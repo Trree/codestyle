@@ -1,0 +1,6 @@
+[submodule "Vim"]
+	path = vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/github/gitignore.git
