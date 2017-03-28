@@ -37,6 +37,10 @@ https://github.com/github/gitignore.git
 ```
 对于使用cmake时只要增加build，cmake产生的中间文件都放在build文件中。
 
+## gdbinit
+
+使用 gdb 调试的时候使用 .gdbinit 文件，方便打印apache和STL里面的东西
+
 ## cmake 模板
 
 对于要编译的文件，提供一个cmake文件，可以直接编译使用
